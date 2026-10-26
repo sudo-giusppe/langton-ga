@@ -1,0 +1,15 @@
+gen   0  best 0.4336  mean 0.2421  div 0.58  evals     64  0.0s
+gen  10  best 0.7258  mean 0.3441  div 0.59  evals    684  0.2s
+gen  20  best 0.7258  mean 0.3704  div 0.83  evals   1304  0.5s
+gen  30  best 0.7258  mean 0.4176  div 0.89  evals   1924  0.7s
+gen  40  best 0.7258  mean 0.3971  div 0.94  evals   2544  0.9s
+gen  50  best 0.7258  mean 0.4001  div 0.92  evals   3164  1.2s
+gen  60  best 0.7258  mean 0.3884  div 0.88  evals   3784  1.4s
+gen  70  best 0.7258  mean 0.3977  div 0.88  evals   4404  1.6s
+gen  79  best 0.7258  mean 0.3831  div 0.92  evals   4962  1.9s
+
+best fitness 0.725838  mobility 0.0030  compactness 0.6262  colors 3/3
+genome 020101000101000000020001000101010200
+history results/single/weaver_4.csv
+best    results/single/weaver_4_best.txt
+render  results/single/weaver_4.png (178x164 px, 4780 cells)

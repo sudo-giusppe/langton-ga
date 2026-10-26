@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "langton-ga: distributed evolutionary search over generalized Langton ants"
+abstract: >-
+  A dependency-free Rust research testbed for distributed evolutionary search
+  over generalized Langton ants (turmites). It includes a sparse-grid simulator,
+  a four-island asynchronous genetic algorithm over TCP, telemetry, a verified
+  highway detector, a reproducible experiment suite, and a paper snapshot.
+type: software
+authors:
+  - family-names: "Barraza Montenegro"
+    given-names: "Jose Pedro"
+    alias: "JPBM"
+version: "0.1.0"
+date-released: "2026-10-26"
+license: "MIT"
+keywords:
+  - "Langton's ant"
+  - "turmite"
+  - "cellular automata"
+  - "genetic algorithm"
+  - "island model"
+  - "distributed computing"
+  - "evolutionary computation"
+  - "artificial life"
+  - "Rust"
+  - "reproducibility"

@@ -1,0 +1,14 @@
+gen   0  best 0.5757  mean 0.2574  div 0.42  evals    256  0.1s
+gen  10  best 0.7004  mean 0.3749  div 0.21  evals   2796  0.6s
+gen  20  best 0.7004  mean 0.4057  div 0.20  evals   5336  1.2s
+gen  30  best 0.7004  mean 0.4084  div 0.23  evals   7876  1.8s
+gen  40  best 0.7004  mean 0.4178  div 0.24  evals  10416  2.4s
+gen  50  best 0.7004  mean 0.3921  div 0.48  evals  12956  3.2s
+gen  60  best 0.7004  mean 0.3967  div 0.78  evals  15496  3.8s
+gen  70  best 0.7118  mean 0.4025  div 0.83  evals  18036  4.7s
+gen  79  best 0.7118  mean 0.3876  div 0.86  evals  20322  5.5s
+
+best fitness 0.711778  mobility 0.0039  compactness 0.5550  colors 3/3
+genome 020100000000000001010101020100000100
+history results/distributed/pan_3.csv
+best    results/distributed/pan_3_best.txt

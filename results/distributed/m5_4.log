@@ -1,0 +1,94 @@
+launching monitor on 127.0.0.1:8470
+monitor listening on 127.0.0.1:8470, expecting 4 islands
+island 1 up  bind=127.0.0.1:8380 peer=127.0.0.1:8381 monitor=127.0.0.1:8470 pop=64 states=2 colors=3
+island 3 up  bind=127.0.0.1:8382 peer=127.0.0.1:8383 monitor=127.0.0.1:8470 pop=64 states=2 colors=3
+island 4 up  bind=127.0.0.1:8383 peer=127.0.0.1:8380 monitor=127.0.0.1:8470 pop=64 states=2 colors=3
+island 2 up  bind=127.0.0.1:8381 peer=127.0.0.1:8382 monitor=127.0.0.1:8470 pop=64 states=2 colors=3
+island 4 gen   0  best 0.4265  mean 0.2529  div 0.48  recv    0
+[   0.5s] island 4 gen   0 best 0.4265 mean 0.2529 div 0.48
+island 1 gen   0  best 0.4353  mean 0.2529  div 0.52  recv    0
+[   0.5s] island 1 gen   0 best 0.4353 mean 0.2529 div 0.52
+island 2 gen   0  best 0.4265  mean 0.2389  div 0.55  recv    0
+[   0.5s] island 2 gen   0 best 0.4265 mean 0.2389 div 0.55
+island 3 gen   0  best 0.4608  mean 0.2487  div 0.52  recv    0
+[   0.5s] island 3 gen   0 best 0.4608 mean 0.2487 div 0.52
+island 2 gen  10  best 0.6751  mean 0.3750  div 0.48  recv    2
+[   1.1s] island 2 gen  10 best 0.6751 mean 0.3750 div 0.48
+island 4 gen  10  best 0.5722  mean 0.3677  div 0.53  recv    2
+[   1.1s] island 4 gen  10 best 0.5722 mean 0.3677 div 0.53
+island 1 gen  10  best 0.6037  mean 0.3239  div 0.72  recv    4
+[   1.2s] island 1 gen  10 best 0.6037 mean 0.3239 div 0.72
+island 3 gen  10  best 0.6751  mean 0.3972  div 0.53  recv    4
+[   1.3s] island 3 gen  10 best 0.6751 mean 0.3972 div 0.53
+island 2 gen  20  best 0.6851  mean 0.3662  div 0.86  recv    6
+[   1.7s] island 2 gen  20 best 0.6851 mean 0.3662 div 0.86
+island 4 gen  20  best 0.7069  mean 0.3546  div 0.64  recv    6
+[   1.7s] island 4 gen  20 best 0.7069 mean 0.3546 div 0.64
+island 1 gen  20  best 0.6598  mean 0.4148  div 0.95  recv    8
+[   1.8s] island 1 gen  20 best 0.6598 mean 0.4148 div 0.95
+island 3 gen  20  best 0.7000  mean 0.4308  div 0.55  recv    8
+[   1.9s] island 3 gen  20 best 0.7000 mean 0.4308 div 0.55
+island 2 gen  30  best 0.7116  mean 0.3838  div 1.00  recv   10
+[   2.2s] island 2 gen  30 best 0.7116 mean 0.3838 div 1.00
+island 4 gen  30  best 0.7215  mean 0.4328  div 0.81  recv   10
+[   2.3s] island 4 gen  30 best 0.7215 mean 0.4328 div 0.81
+island 1 gen  30  best 0.7249  mean 0.4393  div 0.95  recv   12
+[   2.3s] island 1 gen  30 best 0.7249 mean 0.4393 div 0.95
+island 3 gen  30  best 0.7116  mean 0.3858  div 0.75  recv   12
+[   2.5s] island 3 gen  30 best 0.7116 mean 0.3858 div 0.75
+island 4 gen  40  best 0.7249  mean 0.4057  div 0.98  recv   14
+[   2.8s] island 4 gen  40 best 0.7249 mean 0.4057 div 0.98
+island 2 gen  40  best 0.7249  mean 0.4456  div 0.95  recv   14
+[   2.9s] island 2 gen  40 best 0.7249 mean 0.4456 div 0.95
+island 1 gen  40  best 0.7249  mean 0.4115  div 0.89  recv   16
+[   2.9s] island 1 gen  40 best 0.7249 mean 0.4115 div 0.89
+island 3 gen  40  best 0.7249  mean 0.3998  div 0.88  recv   16
+[   3.0s] island 3 gen  40 best 0.7249 mean 0.3998 div 0.88
+island 4 gen  50  best 0.7249  mean 0.4020  div 0.92  recv   18
+[   3.4s] island 4 gen  50 best 0.7249 mean 0.4020 div 0.92
+island 1 gen  50  best 0.7249  mean 0.4153  div 0.94  recv   20
+[   3.6s] island 1 gen  50 best 0.7249 mean 0.4153 div 0.94
+island 3 gen  50  best 0.7249  mean 0.3734  div 0.69  recv   18
+[   3.6s] island 3 gen  50 best 0.7249 mean 0.3734 div 0.69
+island 2 gen  50  best 0.7249  mean 0.4270  div 0.97  recv   20
+[   3.7s] island 2 gen  50 best 0.7249 mean 0.4270 div 0.97
+island 4 gen  60  best 0.7249  mean 0.4262  div 0.92  recv   22
+[   4.0s] island 4 gen  60 best 0.7249 mean 0.4262 div 0.92
+island 3 gen  60  best 0.7249  mean 0.4086  div 0.95  recv   22
+[   4.2s] island 3 gen  60 best 0.7249 mean 0.4086 div 0.95
+island 1 gen  60  best 0.7249  mean 0.4113  div 0.91  recv   24
+[   4.3s] island 1 gen  60 best 0.7249 mean 0.4113 div 0.91
+island 2 gen  60  best 0.7258  mean 0.4190  div 0.95  recv   24
+[   4.3s] island 2 gen  60 best 0.7258 mean 0.4190 div 0.95
+island 3 gen  70  best 0.7545  mean 0.4606  div 1.00  recv   26
+[   4.8s] island 3 gen  70 best 0.7545 mean 0.4606 div 1.00
+island 1 gen  70  best 0.7249  mean 0.4013  div 0.86  recv   26
+[   4.9s] island 1 gen  70 best 0.7249 mean 0.4013 div 0.86
+island 4 gen  70  best 0.7545  mean 0.4365  div 0.95  recv   28
+[   4.9s] island 4 gen  70 best 0.7545 mean 0.4365 div 0.95
+island 2 gen  70  best 0.7545  mean 0.4525  div 0.89  recv   28
+[   4.9s] island 2 gen  70 best 0.7545 mean 0.4525 div 0.89
+island 3 gen  79  best 0.7545  mean 0.4296  div 0.92  recv   28
+island 3 render results/distributed/m5_4/island3.png
+island 3 done  best 0.754454  evals 4972  4.9s  net: 95 msgs / 4886 B / 0.08 ms avg / 0 fail / 14 recv
+island 3 genome 020101010101010000010001020000000000
+island 3 finished: best 0.754454 in 4.9s (95 msgs, 4886 B)
+island 4 gen  79  best 0.7545  mean 0.4164  div 0.89  recv   30
+island 4 render results/distributed/m5_4/island4.png
+island 4 done  best 0.754454  evals 4974  5.0s  net: 95 msgs / 4882 B / 0.08 ms avg / 0 fail / 15 recv
+island 4 genome 020101010101010000010001020000000000
+island 4 finished: best 0.754454 in 5.0s (95 msgs, 4882 B)
+island 1 gen  79  best 0.7545  mean 0.4044  div 0.95  recv   30
+island 1 render results/distributed/m5_4/island1.png
+island 1 done  best 0.754454  evals 4975  5.0s  net: 95 msgs / 4882 B / 0.08 ms avg / 0 fail / 15 recv
+island 1 genome 020101010101010000010001020000000000
+island 1 finished: best 0.754454 in 5.0s (95 msgs, 4882 B)
+island 2 gen  79  best 0.7545  mean 0.4118  div 0.83  recv   30
+island 2 render results/distributed/m5_4/island2.png
+island 2 done  best 0.754454  evals 4978  5.2s  net: 94 msgs / 4798 B / 0.08 ms avg / 1 fail / 15 recv
+island 2 genome 020101010101010000010001020000000000
+island 2 finished: best 0.754454 in 5.2s (94 msgs, 4798 B)
+best across islands: 0.754454
+telemetry -> results/distributed/m5_4/telemetry.csv
+finals    -> results/distributed/m5_4/finals.csv
+demo finished; results in results/distributed/m5_4/

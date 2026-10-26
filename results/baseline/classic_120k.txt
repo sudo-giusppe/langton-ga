@@ -1,0 +1,13 @@
+rule      010100000000000000000000
+steps     120000
+end       (-2130, 2108)
+heading   N (dir 0)
+state     0
+speed     0.024973 cells/step
+new cells 24652
+revisits  95348
+bbox      2163x2135 (4618005 cells, density 0.0053)
+colors    2 of 2
+fitness   0.186184
+trace     results/baseline/trace.csv
+render    results/baseline/classic_120k.png (1500x1500 px, 24652 cells)

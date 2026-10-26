@@ -1,0 +1,2 @@
+hex,states,colors,requested_steps,executed_steps,cycle_period,drift_x,drift_y,cycle_step,pattern_match,mobility,compactness,complexity,colorfulness,neighborhoods,fitness,displacement,new_cells,revisits,bbox_width,bbox_height,colors_used
+000101000200000101020000010001020101,2,3,60000,60000,8,4,-4,60000,1.000000,0.707107,0.000067,0.005859,0.666667,3,0.211031,42426.407,60000,0,30001,30000,2

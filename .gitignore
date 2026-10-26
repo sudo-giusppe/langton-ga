@@ -1,0 +1,27 @@
+# Build artifacts
+/target/
+**/*.rs.bk
+
+# LaTeX auxiliary files (paper/main.pdf is committed on purpose)
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.log
+paper/*.out
+paper/*.synctex.gz
+paper/*.toc
+paper/*.lof
+paper/*.lot
+
+# Raw renders are large and regenerable; paper/figs holds the optimized copies.
+results/**/*.png
+
+# Hardware-dependent benchmark output (run `langton-ga bench` to regenerate).
+results/bench.txt
+
+# Editor and OS noise
+.DS_Store
+*.swp
+*.swo

@@ -1,0 +1,15 @@
+gen   0  best 0.4212  mean 0.2911  div 0.53  evals     64  0.0s
+gen  10  best 0.5178  mean 0.4277  div 0.42  evals    684  0.3s
+gen  20  best 0.5178  mean 0.4742  div 0.17  evals   1304  0.5s
+gen  30  best 0.5178  mean 0.4817  div 0.17  evals   1924  1.0s
+gen  40  best 0.5178  mean 0.4753  div 0.19  evals   2544  1.3s
+gen  50  best 0.5178  mean 0.4795  div 0.14  evals   3164  1.7s
+gen  60  best 0.5178  mean 0.4743  div 0.19  evals   3784  1.9s
+gen  70  best 0.5178  mean 0.4619  div 0.20  evals   4404  2.2s
+gen  79  best 0.5178  mean 0.4735  div 0.20  evals   4962  2.5s
+
+best fitness 0.517784  mobility 0.3333  compactness 0.9999  colors 3/3
+genome 020001010101010000000200000200020200
+history results/single/balanced_5.csv
+best    results/single/balanced_5_best.txt
+render  results/single/balanced_5.png (4x1400 px, 20000 cells)

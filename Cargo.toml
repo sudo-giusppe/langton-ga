@@ -1,0 +1,19 @@
+[package]
+name = "langton-ga"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jose Pedro Barraza Montenegro (JPBM)"]
+description = "Distributed island-model genetic algorithm evolving generalized Langton ants (turmites)"
+license = "MIT"
+readme = "README.md"
+keywords = ["langton-ant", "turmite", "genetic-algorithm", "cellular-automata", "distributed"]
+categories = ["science", "simulation", "algorithms"]
+
+[[bin]]
+name = "langton-ga"
+path = "src/main.rs"
+
+[profile.release]
+opt-level = 3
+lto = "thin"
+codegen-units = 1
